@@ -1,0 +1,3 @@
+INFO 2022-11-13 10:27:25 __call__ {'remote_address': '127.0.0.1', 'server_hostname': 'Mukul', 'request_method': 'GET', 'request_path': '/', 'run_time': 0.3750786781311035}
+INFO 2022-11-13 10:27:25 __call__ {'remote_address': '127.0.0.1', 'server_hostname': 'Mukul', 'request_method': 'GET', 'request_path': '/favicon.ico', 'run_time': 0.015625476837158203}
+INFO 2022-11-13 10:27:45 __call__ {'remote_address': '127.0.0.1', 'server_hostname': 'Mukul', 'request_method': 'GET', 'request_path': '/api/token/', 'request_body': {}, 'run_time': 0.250063419342041}
